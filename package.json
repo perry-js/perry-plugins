@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "firebase": "^5.5.4",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.3"
+  }
+}

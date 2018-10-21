@@ -1,5 +1,5 @@
 import { IFirebasePluginConfig } from "./interfaces/firebase-plugin-config";
-import { writeToDB } from "./write-to-db";
+import { writeToDB } from "./firebase-actions";
 
 const defaultConfig = {
   basePath: 'perry_reports',
